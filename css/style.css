@@ -580,3 +580,15 @@ body::before {
     gap: 10px;
   }
 }
+
+.note {
+  margin-top: 30px;
+  font-size: 1.4rem;
+  color: rgb(216, 216, 216);
+  font-weight: 600;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 12px;
+  border-radius: 8px;
+  text-align: center;
+}
+
